@@ -10,9 +10,11 @@ This is the official code for WACV 2024 paper: "Improving Fairness in Deepfake D
 ### Citation
 If you find this useful for your research, please consider citing this bibtex:
 
-@article{ju2023improving,
-  title={Improving Fairness in Deepfake Detection},
-  author={Ju, Yan and Hu, Shu and Jia, Shan and Chen, George H and Lyu, Siwei},
-  journal={arXiv preprint arXiv:2306.16635},
-  year={2023}
-}
+    @article{ju2023improving,
+      title={Improving Fairness in Deepfake Detection},
+      author={Ju, Yan and Hu, Shu and Jia, Shan and Chen, George H and Lyu, Siwei},
+      journal={arXiv preprint arXiv:2306.16635},
+      year={2023}
+    }
+
+	
